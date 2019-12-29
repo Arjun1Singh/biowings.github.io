@@ -20,7 +20,7 @@ title                    : "BioWings"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BioWings"
-description              : "A Blog for Biotechnologiests."
+description              : "A Blog for Biotechnology Enthusiasts."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "biowings/biowings.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "BioWings"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Blog for Biotechnology entusiasts."
+  bio              : "A Blog for Biotechnology Enthusiasts."
   location         : "New Delhi, India"
   email            :
   links:
