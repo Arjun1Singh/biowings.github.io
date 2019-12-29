@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "BioWings"
-  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo-rounded-edges.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Blog for Biotechnology Enthusiasts."
   location         : "New Delhi, India"
   email            :
